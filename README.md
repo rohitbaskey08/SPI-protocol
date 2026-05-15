@@ -47,7 +47,7 @@ The Verilog FSM performs the following operations:
 
 ## Simulation Waveform
 
-![Waveform](waveform.jpg)
+![Waveform](waveform.png)
 
 
 ```bash
