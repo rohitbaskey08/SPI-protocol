@@ -51,4 +51,4 @@ The Verilog FSM performs the following operations:
 
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/rohitbaskey08/SPI-protocol.git)
